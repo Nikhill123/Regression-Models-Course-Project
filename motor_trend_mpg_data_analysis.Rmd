@@ -1,7 +1,6 @@
 ---
 title: "Motor Trend MPG Data Analysis"
-author: "Matthew Bender"
-date: "September 19, 2015"
+author: "Nikhill R"
 output: html_document
 ---
 *Created with knitr*
